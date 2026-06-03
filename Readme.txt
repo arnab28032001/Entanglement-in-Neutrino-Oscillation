@@ -1,1 +1,1 @@
-This Project aims to establish entanglement in Neutrino Oscillation
+This Project aims to establish entanglement in Neutrino Oscillation.
